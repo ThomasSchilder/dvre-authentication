@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.6.2
+_src_path: https://github.com/jupyterlab/extension-template
+advanced: false
+author_email: thomas.m.schilder@gmail.com
+author_name: dvre-authentication
+has_ai_rules: false
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: dvre-authentication
+project_short_description: A JupyterLab extenstion.
+python_name: dvre_authentication
+repository: ''
+test: false
+
